@@ -54,12 +54,12 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "satori": "^0.25.0",
+    "satori": "^0.63.2",
     "typescript": "^5.9.3",
     "vitest": "^4.1.0"
   },
   "optionalDependencies": {
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.5"
   },
   "browserslist": {
     "production": [
@@ -83,7 +83,7 @@
     "@mui/system": "^7.3.9",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
-    "dompurify": "^3.3.3",
+    "dompurify": "^3.4.17",
     "react-countup": "^6.5.3",
     "swiper": "^12.1.2"
   }
